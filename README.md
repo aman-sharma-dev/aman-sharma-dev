@@ -63,16 +63,19 @@ A **free, fast, privacy-first PDF toolbox** built with Next.js. Merge, compress,
 ### 🔐 [pycryption](https://github.com/aman-sharma-dev/pycryption)  
 A lightweight **encryption/decryption tool** with both GUI and CLI support. Built with Python & Flask.  
 
+### 🧱 [saas-boilerplate](https://github.com/aman-sharma-dev/saas-boilerplate)
+A scalable **SaaS boilerplate** with **Django REST API** and optional frontend integration.  
+Includes modular architecture, split settings for prod/dev, Docker setup, and ready-to-use authentication — built for professionals who want to move fast with clean structure.
+
 ---
 
 ## 🏆 Project Highlights & Achievements  
 
-- 🚀 Built **3 major open-source projects** with **100+ commits combined**  
-- 🔒 Delivered tools for **security, productivity, and developer experience**  
+- 🚀 Built **4 major open-source projects** with **100+ commits combined**  
+- 🔒 Delivered tools for **security**, **productivity**, and **developer experience**  
 - 🌱 Continuously exploring new tech — currently diving into **React Native**  
 - 🤖 Early adopter of **AI-assisted development** for speed, innovation, and scalability  
 - 💡 Focused on **scalable, future-proof solutions** that don’t turn into legacy  
-
 
 ---
 
