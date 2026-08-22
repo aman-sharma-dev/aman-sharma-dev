@@ -76,6 +76,7 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -89,6 +90,9 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA4335?style=flat-square&logo=redis&logoColor=white)
 
 ### Databases
 
@@ -99,6 +103,10 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logo=googlechrome&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 ### AI / LLM
 
@@ -129,12 +137,22 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-759C3E?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ### Observability
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 ### Automation
 
@@ -142,6 +160,24 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+### Architecture & Engineering
+
+![OAuth2](https://img.shields.io/badge/OAuth2-2F2F2F?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4F46E5?style=flat-square&logo=auth0&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0EA5E9?style=flat-square&logo=buffer&logoColor=white)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-F59E0B?style=flat-square&logo=apachekafka&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-334155?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-10B981?style=flat-square&logo=cleanarchitecture&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-2563EB?style=flat-square&logo=testinglibrary&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E%20Testing-9333EA?style=flat-square&logo=playwright&logoColor=white)
 
 <br>
 
@@ -159,93 +195,111 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 <tr>
 <td width="50%">
 
-### 🧠 CandidAI
+### ⏳ [Aevum](https://github.com/aman-sharma-dev/aevum)
 
-> AI-powered hiring intelligence.
+> Offline-first wearable telemetry built to survive disconnects, retries, duplicates, clock drift, out-of-order events, and burst recovery.
 
-Semantic embeddings. GPU accelerated. AMD MI300X.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+</td>
+<td width="50%">
+
+### 🛡️ [AegisMind](https://github.com/aman-sharma-dev/aegis-mind)
+
+> Distributed AI research platform built with Go and Python, featuring gRPC microservices, LangGraph RAG workflows, CrewAI multi-agent execution, PyTorch, HuggingFace, Qdrant, ChromaDB, Ollama, Claude, and GPT-4o.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logo=googlechrome&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [Candid](https://github.com/aman-sharma-dev/candid)
+
+> AI-powered hiring intelligence platform built with Next.js, FastAPI, PyTorch, and BAAI embeddings. Features semantic candidate ranking, GPU clustering, GitHub enrichment, and Dockerized ROCm/CUDA deployments.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ROCm](https://img.shields.io/badge/ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 </td>
 <td width="50%">
 
-### ⚡ Forjnot
+### 🛡️ [NetSentryx](https://github.com/aman-sharma-dev/netsentryx)
 
-> Production-ready full-stack monorepo starter.
+> Event-driven network monitoring platform that performs live packet capture (Npcap), low-latency traffic analytics, and unsupervised threat detection using a PyTorch Autoencoder, backed by an asynchronous Python service.
 
-NestJS · Next.js · TurboRepo · Docker · pnpm
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-F59E0B?style=flat-square&logo=apachekafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 [SaaS Boilerplate](https://github.com/aman-sharma-dev/saas-boilerplate)
+
+> Scalable SaaS boilerplate with Django REST Framework, modular architecture, and production-ready setup. Includes split settings for development and production, Docker support, and optional frontend integration.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%">
+
+### ⚡ [Forjnot](https://github.com/aman-sharma-dev/forjnot)
+
+> Full-stack starter template with Next.js and NestJS in a scalable Turborepo monorepo setup.
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 📄 PDF Toolbox
-
-> Privacy-first PDF platform.
-
-Entirely browser based. Zero server processing.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🛡️ NetSentryx
-
-> Network monitoring & threat detection.
-
-Live analytics. Security-first architecture.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![UV](https://img.shields.io/badge/UV-362D59?style=flat-square&logo=uv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Pycryption
-
-> Encryption toolkit.
-
-GUI + CLI interfaces. Cryptographic utilities.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Encryption](https://img.shields.io/badge/Encryption-362D59?style=flat-square&logo=encrypt&logoColor=white)
-![shell](https://img.shields.io/badge/Shell-3776AB?style=flat-square&logo=shell&logoColor=white)
-</td>
-<td width="50%">
-
-### 🚀 SaaS Boilerplate
-
-> Production-ready Django starter.
-
-REST API · Docker · Authentication · Ready to ship.
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-</td>
-</tr>
 </table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       PROOF OF WORK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <div align="center">`> cat ./proof_of_work`</div>
+
+<br>
+
+<div align="center">
+
+| Project | Engineering problem demonstrated |
+|:---|:---|
+| **Aevum** | Preserving wearable telemetry correctly through disconnects, retries, duplicates, clock drift, out-of-order events, and burst recovery. |
+| **AegisMind** | Coordinating distributed Go/Python AI services, streaming gRPC, RAG retrieval, and multi-agent research workflows. |
+| **Candid** | Serving semantic hiring intelligence through GPU-accelerated embedding, ranking, clustering, and enrichment pipelines. |
+| **NetSentryx** | Turning live network telemetry into security-focused monitoring and threat detection. |
+| **SaaS Boilerplate** | Encoding production concerns—authentication, persistence, observability, and deployment—into a reusable Django foundation. |
+| **Forjnot** | Standardizing production full-stack systems in a fast, repeatable Turborepo monorepo. |
 
 </div>
 
@@ -262,6 +316,18 @@ REST API · Docker · Authentication · Ready to ship.
 <div align="center">
 
 ```diff
++ Aevum
+  End-to-end intelligent product systems
+
++ Personal Job-Intelligence Pipeline
+  Automated discovery · ranking · application intelligence
+
++ Local AI Infrastructure
+  Private inference · model serving · local-first workflows
+
++ Newspaper-Aesthetic Portfolio
+  Editorial design · modern web engineering · personal storytelling
+
 + AI Resume Factory
   Semantic resume generation using embeddings
 
