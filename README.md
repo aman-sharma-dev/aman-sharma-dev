@@ -252,15 +252,14 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 <tr>
 <td width="50%">
 
-### 🚀 [SaaS Boilerplate](https://github.com/aman-sharma-dev/saas-boilerplate)
+### 🗝️ [Kurokagi](https://github.com/aman-sharma-dev/kurokagi)
 
-> Scalable SaaS boilerplate with Django REST Framework, modular architecture, and production-ready setup. Includes split settings for development and production, Docker support, and optional frontend integration.
+> Standalone Go-powered API authorization security testing tool. Verifies explicit access expectations across identities and resource boundaries, with evidence-backed BOLA/IDOR findings, OpenAPI-driven checks, bounded controlled mutations, and targeted retesting.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![API Security](https://img.shields.io/badge/API%20Security-0F172A?style=flat-square&logo=owasp&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-334155?style=flat-square&logo=gnubash&logoColor=white)
 </td>
 <td width="50%">
 
@@ -298,7 +297,7 @@ I don't just write code. I **design systems**, **deploy AI**, **build products**
 | **AegisMind** | Coordinating distributed Go/Python AI services, streaming gRPC, RAG retrieval, and multi-agent research workflows. |
 | **Candid** | Serving semantic hiring intelligence through GPU-accelerated embedding, ranking, clustering, and enrichment pipelines. |
 | **NetSentryx** | Turning live network telemetry into security-focused monitoring and threat detection. |
-| **SaaS Boilerplate** | Encoding production concerns—authentication, persistence, observability, and deployment—into a reusable Django foundation. |
+| **Kurokagi** | Testing API authorization against explicit policies through multi-identity verification, evidence-backed findings, bounded controlled mutations, and targeted retesting. |
 | **Forjnot** | Standardizing production full-stack systems in a fast, repeatable Turborepo monorepo. |
 
 </div>
